@@ -1,1 +1,6 @@
 helix-importer-ui
+form/*
+aem-boilerplate-forms/*
+tools/*
+scripts/*
+blocks/*
